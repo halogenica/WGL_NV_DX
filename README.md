@@ -4,8 +4,6 @@
 
 ![Shared Resource Screenshot](https://github.com/halogenica/WGL_NV_DX/blob/master/SharedResource.png)
 
-## Extra Features
-
 This demo illustrates how to use the WGL_NV_DX_Interop extension to efficiently share a resource between DirectX and OpenGL rendering APIs. The intent is to provide common variations of the implementation, as well as a way to enable a performance comparison between CPU and GPU resource copies. 
 
 ## Note
