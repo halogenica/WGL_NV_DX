@@ -8,7 +8,7 @@
 
 This demo illustrates how to use the WGL_NV_DX_Interop extension to efficiently share a resource between DirectX and OpenGL rendering APIs. The intent is to provide common variations of the implementation, as well as a way to enable a performance comparison between CPU and GPU resource copies. 
 
-# Installation
+## Installation
 
 This demo requires the DirectX SDK to be installed, and may require the Windows SDK to be installed as well. 
 
