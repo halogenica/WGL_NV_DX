@@ -14,7 +14,7 @@ This demo requires the DirectX SDK to be installed, and may require the Windows 
 
 ## Compatibility
 
-Since the time the original article was written, it seems that either the Nvidia driver or modern Nvidia cards, as well as the most recent Intel graphics (Skylake) no longer supports this extension, resulting in failures ranging from black screens to driver crashes. I haven't tested on the most recent AMD cards. I was able to verify that with slightly older Intel hardware (Haswell) that this extension works across Windows 7, Windows 8.1, and Windows 10. 
+Since the time the original article was written, it seems that either the Nvidia driver or modern Nvidia cards, as well as the most recent Intel graphics (Skylake) no longer supports this extension, resulting in failures ranging from black screens to driver crashes. I haven't tested on the most recent AMD cards. I was able to verify that with slightly older Intel hardware (Haswell, HD 4200 - HD 5200) that this extension works across Windows 7, Windows 8.1, and Windows 10. I had previously tested with older AMD hardware (HD 6950) and older Nvidia hardware (GTX 570) which both worked with the texture and offscreen plain methods on Windows 7. 
 
 ## License
 
